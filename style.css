@@ -4,9 +4,13 @@
 
 .jumbotron {
     padding-top: 2rem;
-    background-color: #ffd689;
+    background-color: #f0dbb6;
 }
 
 #portofolio {
-    background-color: #ffd689;
+    background-color: #f0dbb6;
+}
+
+#team {
+    background-color: #f0dbb6;
 }
