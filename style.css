@@ -3,7 +3,8 @@
 }
 
 .jumbotron {
-    padding-top: 2rem;
+    background-image: url(img/background.jpg);
+    padding-top: 6rem;
     background-color: #f0dbb6;
 }
 
@@ -13,4 +14,8 @@
 
 #team {
     background-color: #f0dbb6;
+}
+
+section {
+    padding-top: 6rem;
 }
