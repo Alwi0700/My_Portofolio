@@ -3,9 +3,10 @@
 }
 
 .jumbotron {
-    background-image: url(img/background.jpg);
     padding-top: 6rem;
     background-color: #f0dbb6;
+    background-image: url(img/background.jpg);
+    background-size: auto;
 }
 
 #portofolio {
